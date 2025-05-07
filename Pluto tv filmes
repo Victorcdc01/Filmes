@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="PlutoTVCine" tvg-name="Pluto TV Cine" group-title="Filmes",Pluto TV Cine
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2b5a1d2e3f3c0007b1e1e1/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeries" tvg-name="Pluto TV Séries" group-title="Séries",Pluto TV Séries
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2b5a1d2e3f3c0007b1e1e2/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAção" tvg-name="Pluto TV Ação" group-title="Filmes",Pluto TV Ação
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2b5a1d2e3f3c0007b1e1e3/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDrama" tvg-name="Pluto TV Drama" group-title="Filmes",Pluto TV Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2b5a1d2e3f3c0007b1e1e4/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVComédia" tvg-name="Pluto TV Comédia" group-title="Filmes",Pluto TV Comédia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2b5a1d2e3f3c0007b1e1e5/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSuspense" tvg-name="Pluto TV Suspense" group-title="Filmes",Pluto TV Suspense
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2b5a1d2e3f3c0007b1e1e6/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTerror" tvg-name="Pluto TV Terror" group-title="Filmes",Pluto TV Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2b5a1d2e3f3c0007b1e1e7/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVRomance" tvg-name="Pluto TV Romance" group-title="Filmes",Pluto TV Romance
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2b5a1d2e3f3c0007b1e1e8/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVClássicos" tvg-name="Pluto TV Clássicos" group-title="Filmes",Pluto TV Clássicos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2b5a1d2e3f3c0007b1e1e9/master.m3u8
